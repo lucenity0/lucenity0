@@ -95,7 +95,7 @@ for c in CHIPS:
 
 cols, rows, size, gap = 10, 7, 18, 6
 gx, gy = 600, 66
-a(f'<text x="{gx}" y="58" font-size="11" letter-spacing="2" fill="{MID}">// CONTRIBUTIONS</text>')
+a(f'<text x="{gx}" y="58" font-size="8" letter-spacing="2" fill="{MID}">// CONTRIBUTIONS</text>')
 for r in range(rows):
     for cc in range(cols):
         x, y = gx + cc * (size + gap), gy + r * (size + gap)
