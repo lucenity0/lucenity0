@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="lucenity0 — Nafees S (he/him) · builder & designer" width="100%" />
+  <img src="./assets/header.svg?v=1.2" alt="lucenity0 — Nafees S (he/him) · builder & designer" width="100%" />
 </div>
 
 <br />
