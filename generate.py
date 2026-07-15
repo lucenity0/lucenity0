@@ -14,7 +14,7 @@ Tweak the CONFIG block below to change your name, handle, subtitle, or chips.
 import os, sys
 
 # ---- CONFIG ---------------------------------------------------------------
-NAME     = "NAFEES S"
+NAME     = "Nafees"
 HANDLE   = "@lucenity0"
 PRONOUNS = "he/him"
 SUBTITLE = "builder · designer · shipping in public"   # keep it one line
