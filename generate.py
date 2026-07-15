@@ -69,7 +69,7 @@ bracket(26, 26, 1, 1); bracket(W-26, 26, -1, 1); bracket(26, H-26, 1, -1); brack
 
 a(f'<text x="46" y="50" font-size="12" letter-spacing="3" fill="{MID}">// GITHUB · PROFILE</text>')
 a(f'<circle class="odot" cx="742" cy="46" r="5" fill="{INK}"/>')
-a(f'<text x="756" y="50" font-size="12" letter-spacing="3" fill="{MID}">ONLINE</text>')
+a(f'<text x="756" y="60" font-size="9" letter-spacing="3" fill="{MID}">ONLINE</text>')
 
 a(f'<text class="boot d1" x="60" y="102" font-size="15" letter-spacing="1" fill="{MID}">&#62; whoami</text>')
 a(f'<text class="boot d1" x="58" y="156" font-size="58" font-weight="700" letter-spacing="1" fill="{INK}">{NAME}</text>')
