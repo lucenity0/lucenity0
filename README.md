@@ -17,14 +17,14 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 ### `// stack`
-
-`Python` &nbsp;`FastAPI` &nbsp;`Celery` &nbsp;`PostgreSQL` &nbsp;`Redis` &nbsp;·&nbsp; `React` &nbsp;`TypeScript` &nbsp;`JavaScript` &nbsp;`Node` &nbsp;`HTML / CSS` &nbsp;·&nbsp; `Docker` &nbsp;`LLMs / RAG`
+`Python` &nbsp;`FastAPI` &nbsp;`Celery` &nbsp;`PostgreSQL` &nbsp;`Redis` &nbsp;`ChromaDB` &nbsp;`LangChain` &nbsp;·&nbsp; `Swift` &nbsp;`SwiftUI` &nbsp;·&nbsp; `React` &nbsp;`TypeScript` &nbsp;`JavaScript` &nbsp;`Node` &nbsp;`HTML / CSS` &nbsp;·&nbsp; `Docker` &nbsp;`AWS` &nbsp;`LLMs / RAG`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// building`
+### `// built!`
 
 **Liffy** — AI-powered peer code review. Connects to GitHub, reads your pull requests, and writes structured, senior-engineer-level feedback using RAG&nbsp;+&nbsp;LLMs.
+click here for **[_liffy_](https://liffy.lucenity.dev)**
 <br />
 <sub>`FastAPI` · `Celery` · `React` · `Chroma / pgvector`</sub>
 
