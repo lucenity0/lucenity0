@@ -23,10 +23,24 @@
 
 ### `// built!`
 
-**Liffy** — AI-powered peer code review. Connects to GitHub, reads your pull requests, and writes structured, senior-engineer-level feedback using RAG&nbsp;+&nbsp;LLMs.
+**Liffy** — self-hosted AI code review that reads the whole codebase first. Connects to GitHub, retrieves the code a change actually touches, and leaves line-anchored comments that say how sure they are.
 click here for **[_liffy_](https://liffy.lucenity.dev)**
 <br />
-<sub>`FastAPI` · `Celery` · `React` · `Chroma / pgvector`</sub>
+<sub>`FastAPI` · `Celery` · `Redis` · `React` · `ChromaDB`</sub>
+
+<br />
+
+**Askcal** — a daily scheduler that ranks your inbox by regret, not urgency. native iOS/iPadOS app, built around your real calendar.
+click here for **[_askcal_](https://askcal.lucenity.dev)**
+<br />
+<sub>`SwiftUI` · `FastAPI` · `PostgreSQL` · `Claude`</sub>
+
+<br />
+
+**clockit** — a macOS time tracker built so its hours can be checked. append-only, hash-chained log that turns into client invoices.
+click here for **[_clockit_](https://github.com/lucenity0/clockit-app)**
+<br />
+<sub>`Electron` · `TypeScript` · `macOS`</sub>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -48,7 +62,7 @@ click here for **[_perymeter_](https://perymeter.tech)**
 
 <div align="center">
 
-**[ github ](https://github.com/lucenity0)** &nbsp;·&nbsp; **[ email ](mailto:0lucenity@gmail.com)** &nbsp;·&nbsp; **[ linkedin ](https://www.linkedin.com/in/nafees-s-6770712b0/)** &nbsp;·&nbsp; **[ portfolio ](https://me.lucenity.dev)**
+**[ github ](https://github.com/lucenity0)** &nbsp;·&nbsp; **[ email ](mailto:nafees.s2005@gmail.com)** &nbsp;·&nbsp; **[ linkedin ](https://www.linkedin.com/in/nafees-s-6770712b0/)** &nbsp;·&nbsp; **[ portfolio ](https://me.lucenity.dev)**
 
 </div>
 
