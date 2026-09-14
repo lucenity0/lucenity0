@@ -30,6 +30,14 @@ click here for **[_liffy_](https://liffy.lucenity.dev)**
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+### `// building!`
+
+**Perymeter** — a web application security scanner for the project you just built and aren't sure is safe to ship. runs on your machine, scans only what you own, explains everything it finds.
+click here for **[_perymeter_](https://perymeter.tech)**
+<br />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ### `// off the keyboard`
 
 `Graphic Design` &nbsp;·&nbsp; `Music / Singing` &nbsp;·&nbsp; `Piano` &nbsp;·&nbsp; `Art`
